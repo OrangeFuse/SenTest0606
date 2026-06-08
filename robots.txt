@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-# Prototype site intentionally blocked from search indexing.
+# Draft site intentionally blocked from search indexing.
